@@ -1,0 +1,2 @@
+# phpMultiSpecialChars
+Array SpecialChars
